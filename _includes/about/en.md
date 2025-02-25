@@ -1,17 +1,10 @@
 # ABOUT ME
 Hi there 👋, I'm Sofiya.
 
-- 👨‍🎓 
-- 🌱 
-- ✨ 
-- 📫 
-  - 🔭
-  - 🌸 
-  - ⚡
-  - 💎 
 
 # ABOUT THIS WEBSITE
 
+I am an IT technology engineer. Ability and desire for constant self-learning. I'm bad at programming. I mostly write scripts for personal use.
 
 # CONTACT
 
