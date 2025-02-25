@@ -82,7 +82,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "I <br/> Love 🐇, <br/> Life 🤔"
-sidebar-avatar: https://github.com/sofijacom/kennel-linux.github.io/blob/master/img/logo-sofi.png?raw=true # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/sofi2025-cpu/sofi2025-cpu.github.io/blob/master/img/logo-sofi.png?raw=true # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
