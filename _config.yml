@@ -96,13 +96,13 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-#friends:
-#  [
-#    { title: "_", href: "_" },
-#  ]
+friends:
+  [
+    { title: "_", href: "_" },
+  ]
 
 # People
-people:
-  [
-    { title: "Erik Schoepplenberg", href: "https://github.com/techrockedge" },
-  ]
+#people:
+#  [
+#    { title: "Erik Schoepplenberg", href: "https://github.com/techrockedge" },
+#  ]
