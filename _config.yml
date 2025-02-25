@@ -5,7 +5,7 @@ header-img: img/blog-page.jpg
 email: sofija.p2018@gmail.com
 description: "May it get me? 🌸"
 keyword: "sofija, @sofija, sofija's Blog, CP, Arch Linux, Obsidian"
-url: "sofijacom.github.mi" # your host, for absolute URL
+url: "sofijacom.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -96,8 +96,13 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-friends:
+#friends:
+#  [
+#    { title: "_", href: "_" },
+#  ]
+
+# People
+people:
   [
     { title: "Erik Schoepplenberg", href: "https://github.com/techrockedge" },
-    { title: "fredx181", href: "https://github.com/fredx181" },
   ]
