@@ -1,1 +1,7 @@
-# sofi2025-cpu.github.io
+[🌸🐳 Sofiya 👋](https://kennel-linux.github.io)
+================================
+
+### Preview
+
+
+![post-dark](assets/post-dark.png)
