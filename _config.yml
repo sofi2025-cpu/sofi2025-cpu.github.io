@@ -18,6 +18,15 @@ twitter_username: Sofijacom
 facebook_username: Sofijacom
 linkedin_username: sofijacom
 
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
+
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
