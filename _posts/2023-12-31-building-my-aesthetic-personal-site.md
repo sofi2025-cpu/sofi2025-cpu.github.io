@@ -10,7 +10,7 @@ tags:
 ---
 
 ## Inspiration 
-blog/dark-mode-revisited). You can now easily change the color to your liking in `less/variables.less` file (at the end there are sections for light and dark mode).
+You can now easily change the color to your liking in `less/variables.less` file (at the end there are sections for light and dark mode).
 
 ## Preview
 Here are some previews of the website.
