@@ -98,11 +98,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "_", href: "_" },
+    { title: "_", href: "https://" },
   ]
-
-# People
-#people:
-#  [
-#    { title: "Erik Schoepplenberg", href: "https://github.com/techrockedge" },
-#  ]
