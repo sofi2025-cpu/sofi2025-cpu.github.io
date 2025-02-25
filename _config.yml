@@ -96,8 +96,8 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-friends:
+forum:
   [
-    { title: "_", href: "https://" },
+    { title: "Erik Schoepplenberg", href: "https://github.com/techrockedge" },
   ]
 
