@@ -1,3 +1,3 @@
-# Sofi blog 模板
+# Hux blog 模板
 
 ### 
