@@ -17,6 +17,7 @@ github_username: sofijacom
 twitter_username: Sofijacom
 facebook_username: Sofijacom
 linkedin_username: sofijacom
+weibo_username: sofiya      # the footer woule be auto-updated.
 
 jekyll_admin:
   hidden_links:
