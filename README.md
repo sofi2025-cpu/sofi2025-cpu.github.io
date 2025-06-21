@@ -1,4 +1,4 @@
-[🌸🐳 Sofiya 👋](https://kennel-linux.github.io)
+[🌸🐳 Sofiya 👋](https://sofi2025-cpu.github.io/)
 ================================
 
 ### Preview
